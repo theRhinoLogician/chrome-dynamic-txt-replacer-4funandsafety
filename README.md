@@ -1,37 +1,34 @@
-cloud-to-butt
+
+Trigger-Phrase-Replacer-for-Chrome
 =============
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+Functionality
+------------
+Replaces any given word or phrase with a different one throughout your browsing experience. 
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+Extension must have permission to view and edit all the pages you visit, which is why its so important that it be open source and publicly hosted.  
 
-Note that there are forks of this extension that simply replace 'cloud' with 'butt'.
-In my personal opinion, that approach is too broad and it's less funny as a result, but it is clearly a very
-polarizing issue in the cloud-to-butt user community.  Forks are free to do whatever they like.  But officially, _this_
-extension replaces only the phrase described above. Thank you for your concern.
 
-Screenshot Gallery
-------------------
+Future-Functionality
+------------
+Simple user GUI to choose which word / phrase is replaced, and how. 
+
+Until I add this functionality, this extension is absolutely the same as 'Cloud to Butt' just with arbitrary word changes that are neither funny nor useful to anyone but the author.
+
+
+About
+------------
+
+Forked from 'Cloud to Butt', an extension that replaces occurrences of the phrase "the cloud" with "my butt"
 
 http://www.flickr.com/groups/cloud-to-butt/
+
+It was a funny extension. But I needed a more serious one that would allow me to trade out some names and phrases that were triggering bad reactions.  I realised I probably wasn't the only one who would like this functionality in chrome.  
+
 
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+In Windows, choose Window > Extensions.  Drag Trigger-Phrase-Replacer-for-Chrome.crx into the page that appears.
 
-Safari Version
---------------
-
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
-
-Firefox Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
-
-
-Opera Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-opera
+In Mac OSX, enter "chrome://extensions/" into your address bar / omnibox.  Drag Trigger-Phrase-Replacer-for-Chrome.crx into the page that appears.
