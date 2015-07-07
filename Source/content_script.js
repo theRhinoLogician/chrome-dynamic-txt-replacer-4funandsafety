@@ -2,7 +2,7 @@ walk(document.body);
 
 function walk(node)
 {
-	// I stole this function from here:
+	// cloud-to-butt author stole this function from here:
 	// http://is.gd/mwZp7E
 
 	var child, next;
