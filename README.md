@@ -1,5 +1,5 @@
 
-Trigger-Phrase-Replacer-for-Chrome
+Chrome Dynamic Text Replacer (for lulz and browsing-trigger-free)
 =============
 
 Functionality

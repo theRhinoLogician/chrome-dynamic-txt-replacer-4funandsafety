@@ -1,6 +1,6 @@
 {
 	"manifest_version": 2,
-	"name": "Chrome-Trigger-Phrase-Eliminator-Extension",
+	"name": "Chrome-Dynamic-TXT-Replacer",
 	"version": "0.1",
 	"description": "Replaces the name 'Josh' or 'Joshua' with 'Jerry' or 'Jerrold'.",
 	"content_scripts":
